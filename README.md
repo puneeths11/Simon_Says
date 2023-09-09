@@ -1,6 +1,5 @@
 # Simon Says Game
 
-![Simon Says Game Preview](screenshot.png)
 
 Welcome to the Simon Says Game repository! This classic memory and pattern recognition game is developed using HTML, CSS, and JavaScript.
 
